@@ -1,0 +1,18 @@
+{
+  "name": "fckfy-front",
+  "version": "1.0.0",
+  "description": "Fckfy frontend",
+  "author": "k0va1",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/bulma": "^1.2.1"
+  },
+  "devDependencies": {}
+}
